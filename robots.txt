@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://password-protect-flash-drive-window.vercel.app/sitemap.xml
